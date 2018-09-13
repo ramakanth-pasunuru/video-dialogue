@@ -1,5 +1,5 @@
 # Game-Based Video-Context Dialogue
-This repository contains Twitch-FIFA dataset and code for: [Game-Based Video-Context Dialogue]()
+This repository contains Twitch-FIFA dataset and code for: [Game-Based Video-Context Dialogue](https://arxiv.org/abs/1809.04560)
 
 Twitch-FIFA dataset is collected from [twitch.tv](https://www.twitch.tv) platform and is subject to research-only purposes in accordance with the Twitch [privacy policy](https://www.twitch.tv/p/legal/privacy-policy/). Note that the included MIT license only applies to our code and models. 
 
