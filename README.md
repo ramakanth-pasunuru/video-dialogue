@@ -12,7 +12,26 @@ Dataset Statistics:
 <img align="center" width="594" height="184" src="./images/twitch-FIFA-dataset-statistics.png">
 
 ## Code and Models
-* COMING SOON! 
+This code is tested on python 2.7 and tensorflow 1.2.
+
+### Setup:
+Install all the required packages from requirements.txt file.
+
+create "data" directory and place the downloaded processed data in that directory. The structure should look like as descibed below:
+
+    .
+    ├── ...
+    ├── data                   
+    │   ├── fifa        
+    │   │    ├── train_word.json
+    │   │    ├── ...                
+    └── ...
+
+### Run Code:
+use run.sh script to train and test models
+
+### Pretrained Models
+Download the pretrained models for TriDAF discriminative model from [here](https://drive.google.com/drive/folders/1AbP--F6_YM1Q69OYelZWnQhV7_he26qe?usp=sharing).
 
 ## Citation
 If you find this dataset and code helpful, please consider citing the following paper:
